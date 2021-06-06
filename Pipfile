@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "==1.1.2"
+pandas = "==1.2.2"
+click = "==7.1.2"
+itsdangerous = "==1.1.0"
+markupsafe = "==1.1.1"
+numpy = "==1.20.1"
+python-dateutil = "==2.8.1"
+pytz = "==2021.1"
+six = "==1.15.0"
+werkzeug = "==1.0.1"
+Jinja2 = "==2.11.3"
+plotly = "*"
+chart-studio = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
