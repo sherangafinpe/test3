@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'sherangatest'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_9a640af62bfe41fbbaad45afe74aa385 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_bc0630aa8a7c4458ab7581492bdbca5d }}
